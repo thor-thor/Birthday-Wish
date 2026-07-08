@@ -1,40 +1,91 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎂 Birthday-Wish
 
-## Getting Started
+A beautiful and interactive birthday website created with ❤️ for my beloved sister to make her birthday on **29th July** extra special.
 
-First, run the development server:
+## ✨ Features
+
+- 🎉 Beautiful landing page with birthday wishes
+- ⏳ Live countdown timer to the birthday
+- 📸 Memories gallery with photos
+- 💌 Heartfelt messages and appreciation notes
+- 🎁 Interactive gift box animation
+- 🎵 Background music and multimedia section
+- 🕒 Memory timeline of special moments
+- 🎆 Confetti and celebration effects
+- 📱 Fully responsive design for mobile and desktop
+- 🌙 Modern UI with smooth animations
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js
+- **Language:** JavaScript
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
+- **Deployment:** Vercel
+
+## 📂 Project Structure
+
+```text
+app/
+├── page.js
+├── memories/
+├── multimedia/
+├── reasons/
+├── timeline/
+components/
+public/
+styles/
+```
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/thor-thor/Birthday-Wish.git
+cd Birthday-Wish
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+in your browser.
 
-## Learn More
+## 🏗️ Build for Production
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+npm start
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌐 Live Demo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Deployed on Vercel.
 
-## Deploy on Vercel
+## ❤️ Dedication
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is dedicated to my wonderful sister.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Birthday-Wish
->>>>>>> f9151e874fdc9dd901c74246801a1a873dde6f82
+> "A sister is both your mirror and your opposite."
+
+Happy Birthday! 🎂🎉❤️
+
+## 📄 License
+
+This project is for personal and educational purposes.
